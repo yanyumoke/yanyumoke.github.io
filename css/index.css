@@ -1460,7 +1460,7 @@ canvas:not(#ribbon-canvas),
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: rgba(73,177,245,0.7);
-  --light-grey: #eee;
+  --light-grey: #29a6ff;
   --dark-grey: #cacaca;
   --white: #fff;
   --text-highlight-color: #1f2d3d;
@@ -3461,7 +3461,7 @@ h1.page-title + .tag-cloud-list {
   }
 }
 #page-header #site-subtitle {
-  color: var(--light-grey);
+  color: var(--white);
   font-size: 1.15em;
 }
 @media screen and (min-width: 768px) {
@@ -3766,7 +3766,7 @@ h1.page-title + .tag-cloud-list {
   color: var(--light-grey);
 }
 #nav a:hover {
-  color: var(--white);
+  color: #5abaff;
 }
 #nav .site-name {
   text-shadow: 2px 2px 4px rgba(0,0,0,0.15);

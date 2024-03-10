@@ -1460,8 +1460,8 @@ canvas:not(#ribbon-canvas),
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: rgba(73,177,245,0.7);
-  --light-grey: #29a6ff;
-  --dark-grey: #cacaca;
+  --light-grey: #0d9eff;
+  --dark-grey: #65b5ff;
   --white: #fff;
   --text-highlight-color: #1f2d3d;
   --blockquote-color: #6a737d;
@@ -3575,12 +3575,12 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.nav-fixed #nav a,
 #page-header.nav-fixed #nav #toggle-menu {
-  color: var(--font-color);
+  color: var(--light-grey);
   text-shadow: none;
 }
 #page-header.nav-fixed #nav a:hover,
 #page-header.nav-fixed #nav #toggle-menu:hover {
-  color: #49b1f5;
+  color: var(--dark-grey);
 }
 #page-header.nav-fixed.fixed #nav {
   top: 0;
@@ -3766,7 +3766,7 @@ h1.page-title + .tag-cloud-list {
   color: var(--light-grey);
 }
 #nav a:hover {
-  color: #5abaff;
+  color: var(--dark-grey);
 }
 #nav .site-name {
   text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
@@ -3841,7 +3841,7 @@ h1.page-title + .tag-cloud-list {
   display: inline-block;
   padding: 8px 16px;
   width: 100%;
-  color: var(--font-color) !important;
+  color: var(--light-grey) !important;
   text-shadow: none !important;
 }
 #nav.hide-menu #toggle-menu {

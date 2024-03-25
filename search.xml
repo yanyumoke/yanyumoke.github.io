@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>从零开始搭建博客</title>
+      <link href="/2024/037d37f72d.html"/>
+      <url>/2024/037d37f72d.html</url>
+      
+        <content type="html"><![CDATA[<p>我是利用GitHub+Hexo搭建博客，（部分借鉴于<a href="https://zhuanlan.zhihu.com/p/102592286">枫叶</a>博主的教程），我买了个.love的域名，一年十多元你可以不用买域名（对搭建网站没有影响）。</p><p>废话不多说，按照以下步骤进行操作吧:</p><ul><li>第一篇<blockquote><p><a href="/first">个人博客第一篇——注册GitHub</a></p></blockquote></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 从零开始搭建博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 从零开始搭建博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于我</title>
       <link href="/2024/039ff79b23.html"/>
       <url>/2024/039ff79b23.html</url>
@@ -20,7 +45,7 @@
       
         <tags>
             
-            <tag> 第一篇 </tag>
+            <tag> 关于我 </tag>
             
         </tags>
       

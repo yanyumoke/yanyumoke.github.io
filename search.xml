@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>从零开始搭建博客</title>
+      <title>从零开始搭建博客（持续更新中……）</title>
       <link href="/2024/037d37f72d.html"/>
       <url>/2024/037d37f72d.html</url>
       
-        <content type="html"><![CDATA[<p>我是利用GitHub+Hexo搭建博客，（部分借鉴于<a href="https://zhuanlan.zhihu.com/p/102592286">枫叶</a>博主的教程），我买了个.love的域名，一年十多元,你也可以不用买域名（对搭建网站没有影响）。</p><p>废话不多说，按照以下步骤进行操作吧:</p><blockquote><p><a href="/begin/first.html">个人博客第一篇——注册GitHub</a></p></blockquote><blockquote><p><a href="/begin/second.html">个人博客第二篇——下载Git</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本站基于Hexo搭建的博客，采用了🦋 <a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a><font color=red>v4.13.0</font> 主题。</p></blockquote><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><blockquote><p><a href="/begin/first.html">个人博客第一篇——注册GitHub</a><br><a href="/begin/second.html">个人博客第二篇——下载Git</a></p></blockquote>]]></content>
       
       
       <categories>

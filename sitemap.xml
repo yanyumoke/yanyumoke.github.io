@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yanyumoke.love/begin/second.html</loc>
+    
+    <lastmod>2024-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yanyumoke.love/2024/037d37f72d.html</loc>
     
     <lastmod>2024-03-26</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://yanyumoke.love/begin/first.html</loc>
     
     <lastmod>2024-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yanyumoke.love/begin/second.html</loc>
-    
-    <lastmod>2024-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

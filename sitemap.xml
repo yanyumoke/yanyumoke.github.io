@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yanyumoke.love/begin/second.html</loc>
+    <loc>https://yanyumoke.love/posts/first.html</loc>
     
-    <lastmod>2024-03-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yanyumoke.love/begin/first.html</loc>
-    
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yanyumoke.love/2024/037d37f72d.html</loc>
+    <loc>https://yanyumoke.love/posts/second.html</loc>
     
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://yanyumoke.love/2024/039ff79b23.html</loc>
+    <loc>https://yanyumoke.love/posts/7d37f72d.html</loc>
+    
+    <lastmod>2024-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yanyumoke.love/posts/9ff79b23.html</loc>
     
     <lastmod>2024-03-25</lastmod>
     
@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://yanyumoke.love/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,14 +102,14 @@
   
   <url>
     <loc>https://yanyumoke.love/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yanyumoke.love/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -118,14 +118,14 @@
   
   <url>
     <loc>https://yanyumoke.love/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yanyumoke.love/categories/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2024-03-26</lastmod>
+    <lastmod>2024-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

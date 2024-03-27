@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://yanyumoke.love/sitemap.xml
+Sitemap: https://yanyumoke.love/baidusitemap.xml

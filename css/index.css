@@ -3885,9 +3885,6 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
-#nav #article-container p {
-  color: #000;
-}
 .loading-bg {
   display: -webkit-box;
   display: -moz-box;

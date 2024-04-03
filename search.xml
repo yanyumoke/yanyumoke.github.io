@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>个人博客第二篇——下载Git</title>
-      <link href="/posts/second.html"/>
-      <url>/posts/second.html</url>
+      <title>个人博客（三）——绑定GitHub并提交文件</title>
+      <link href="/posts/third.html"/>
+      <url>/posts/third.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p><a href="/posts/7d37f72d.html">返回</a></p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><font size=4; color=red>(已经装有Git的请忽略此步骤)</font></p><blockquote><p><font size=4>进行此步骤前请先确认是否已完成以下步骤：</font><br><a href="/begin/first.html">个人博客第一篇——注册GitHub</a></p></blockquote><p><font size=6><b>Git <font color=red>v2.44.0</font>安装步骤：</b></font></p><h1 id="下载Git"><a href="#下载Git" class="headerlink" title="下载Git"></a><font size=5>下载Git</font></h1><p>  <font size=4>进入Git官方:<a href="https://git-scm.com/">Git官方地址</a>，点击<font color=#49b1f5>Downloads</font></font></p><blockquote><p><img src="/image/second/1.jpg" alt="Git"></p></blockquote><p><font size=4>点击<font color=#49b1f5>Windows</font></font></p><blockquote><p><img src="/image/second/2.jpg" alt="Git"></p></blockquote><p><font size=4>点击<font color=#49b1f5>Click here to download</font>等待下载完成</font></p><blockquote><p><img src="/image/second/3.jpg" alt="Git"></p></blockquote><h1 id="安装Git"><a href="#安装Git" class="headerlink" title=" 安装Git"></a><font size=5> 安装Git</font></h1><p><font size=4>下载完后双击打开，点击next</font></p><blockquote><p><img src="/image/second/4.jpg" alt="Git"></p></blockquote><p><font size=4>选择安装位置</font></p><blockquote><p><img src="/image/second/5.jpg" alt="Git"></p></blockquote><p><font size=4>直接点击next，如果需要创建桌面图标的可以勾选方框</font></p><blockquote><p><img src="/image/second/6.jpg" alt="Git"></p></blockquote><p><font size=4>下面的步骤都默认，点击next</font></p><blockquote><p><img src="/image/second/7.jpg" alt="Git"><br><img src="/image/second/8.jpg" alt="Git"><br><img src="/image/second/9.jpg" alt="Git"><br><img src="/image/second/10.jpg" alt="Git"><br><img src="/image/second/11.jpg" alt="Git"><br><img src="/image/second/12.jpg" alt="Git"><br><img src="/image/second/13.jpg" alt="Git"><br><img src="/image/second/14.jpg" alt="Git"><br><img src="/image/second/15.jpg" alt="Git"><br><img src="/image/second/16.jpg" alt="Git"><br><img src="/image/second/17.jpg" alt="Git"></p></blockquote><p><font size=4>等待安装完成</font></p><blockquote><p><img src="/image/second/18.jpg" alt="Git"></p></blockquote><p><font size=4>安装完成后点击Finish</font></p><blockquote><p><img src="/image/second/19.jpg" alt="Git"></p></blockquote><h1 id="运行Git-Bash"><a href="#运行Git-Bash" class="headerlink" title="运行Git Bash"></a><font size=5>运行Git Bash</font></h1><p><font size=4>完成后鼠标右键空白， 出现如下图所示:</font></p><blockquote><p><img src="/image/second/20.jpg" alt="Git"></p></blockquote><h1 id="检测Git"><a href="#检测Git" class="headerlink" title="检测Git"></a><font size=5>检测Git</font></h1><p><font size=4>打开Git Bash输入<font color=red>git</font>，回车</font></p><blockquote><p><img src="/image/second/21.jpg" alt="Git"></p></blockquote><p><font size=4>回车后弹出如下图所示，则安装成功</font></p><blockquote><p><img src="/image/second/22.jpg" alt="Git"></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p><a href="/posts/7d37f72d.html">返回</a></p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p><font size=4>进行此步骤前请先确认是否已完成以下步骤：</font><br><a href="/begin/first.html">个人博客（一）——注册GitHub</a><br><a href="/posts/second.html">个人博客（二）——下载Git</a></p></blockquote><blockquote><p><font size=5>参考：</font><font size=4><a href="https://zhuanlan.zhihu.com/p/103391101">枫叶知乎博客学习专栏第三篇：</a></font></p></blockquote><blockquote><p><font size=4>利用SSH来完成GitHub的绑定并提交文件。</font></p></blockquote><p><font size=4>SSH（安全外壳协议，Secure Shell 的缩写）是建立在应用层基础上的安全协议。SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议，利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。简单来说，SSH就是保障你的账户安全，将你的数据加密压缩，不仅防止其他人截获你的数据，还能加快传输速度。</font></p>]]></content>
       
       
       
@@ -23,7 +23,26 @@
     
     
     <entry>
-      <title>个人博客第一篇——注册GitHub</title>
+      <title>个人博客（二）——下载Git</title>
+      <link href="/posts/second.html"/>
+      <url>/posts/second.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><a href="/posts/7d37f72d.html">返回</a></p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p><font size=4; color=red>(已经装有Git的请忽略此步骤)</font></p></blockquote><blockquote><p><font size=4>进行此步骤前请先确认是否已完成以下步骤：</font><br><a href="/begin/first.html">个人博客（一）——注册GitHub</a></p></blockquote><p><font size=6><b>Git <font color=red>v2.44.0</font>安装步骤：</b></font></p><h1 id="下载Git"><a href="#下载Git" class="headerlink" title="下载Git"></a><font size=5>下载Git</font></h1><p>  <font size=4>进入Git官方:<a href="https://git-scm.com/">Git官方地址</a>，点击<font color=#49b1f5>Downloads</font></font></p><blockquote><p><img src="/image/second/1.jpg" alt="Git"></p></blockquote><p><font size=4>点击<font color=#49b1f5>Windows</font></font></p><blockquote><p><img src="/image/second/2.jpg" alt="Git"></p></blockquote><p><font size=4>点击<font color=#49b1f5>Click here to download</font>等待下载完成</font></p><blockquote><p><img src="/image/second/3.jpg" alt="Git"></p></blockquote><h1 id="安装Git"><a href="#安装Git" class="headerlink" title=" 安装Git"></a><font size=5> 安装Git</font></h1><p><font size=4>下载完后双击打开，点击next</font></p><blockquote><p><img src="/image/second/4.jpg" alt="Git"></p></blockquote><p><font size=4>选择安装位置</font></p><blockquote><p><img src="/image/second/5.jpg" alt="Git"></p></blockquote><p><font size=4>直接点击next，如果需要创建桌面图标的可以勾选方框</font></p><blockquote><p><img src="/image/second/6.jpg" alt="Git"></p></blockquote><p><font size=4>下面的步骤都默认，点击next</font></p><blockquote><p><img src="/image/second/7.jpg" alt="Git"><br><img src="/image/second/8.jpg" alt="Git"><br><img src="/image/second/9.jpg" alt="Git"><br><img src="/image/second/10.jpg" alt="Git"><br><img src="/image/second/11.jpg" alt="Git"><br><img src="/image/second/12.jpg" alt="Git"><br><img src="/image/second/13.jpg" alt="Git"><br><img src="/image/second/14.jpg" alt="Git"><br><img src="/image/second/15.jpg" alt="Git"><br><img src="/image/second/16.jpg" alt="Git"><br><img src="/image/second/17.jpg" alt="Git"></p></blockquote><p><font size=4>等待安装完成</font></p><blockquote><p><img src="/image/second/18.jpg" alt="Git"></p></blockquote><p><font size=4>安装完成后点击Finish</font></p><blockquote><p><img src="/image/second/19.jpg" alt="Git"></p></blockquote><h1 id="运行Git-Bash"><a href="#运行Git-Bash" class="headerlink" title="运行Git Bash"></a><font size=5>运行Git Bash</font></h1><p><font size=4>完成后鼠标右键空白， 出现如下图所示:</font></p><blockquote><p><img src="/image/second/20.jpg" alt="Git"></p></blockquote><h1 id="检测Git"><a href="#检测Git" class="headerlink" title="检测Git"></a><font size=5>检测Git</font></h1><p><font size=4>打开Git Bash输入<font color=red>git</font>，回车</font></p><blockquote><p><img src="/image/second/21.jpg" alt="Git"></p></blockquote><p><font size=4>回车后弹出如下图所示，则安装成功</font></p><blockquote><p><img src="/image/second/22.jpg" alt="Git"></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 从零开始搭建博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人博客（一）——注册GitHub</title>
       <link href="/posts/first.html"/>
       <url>/posts/first.html</url>
       
@@ -46,7 +65,7 @@
       <link href="/posts/7d37f72d.html"/>
       <url>/posts/7d37f72d.html</url>
       
-        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本站基于Hexo搭建的博客，采用了🦋 <a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a><font color=red>v4.13.0</font> 主题。</p></blockquote><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><blockquote><p><a href="/posts/first.html">个人博客第一篇——注册GitHub</a><br><a href="/posts/second.html">个人博客第二篇——下载Git</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>本站基于Hexo搭建的博客，采用了🦋 <a href="https://github.com/jerryc127/hexo-theme-butterfly">hexo-theme-butterfly</a><font color=red>v4.13.0</font> 主题。</p></blockquote><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><blockquote><p><a href="/posts/first.html">个人博客（一）——注册GitHub</a><br><a href="/posts/second.html">个人博客（二）——下载Git</a><br><a href="/posts/third.html">个人博客（三）——绑定GitHub并提交文件</a></p></blockquote>]]></content>
       
       
       <categories>

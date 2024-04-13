@@ -8,7 +8,7 @@
       <link href="/posts/third.html"/>
       <url>/posts/third.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p><a href="/posts/7d37f72d.html">返回</a></p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p><font size=4>进行此步骤前请先确认是否已完成以下步骤：</font><br><a href="/begin/first.html">个人博客（一）——注册GitHub</a><br><a href="/posts/second.html">个人博客（二）——下载Git</a></p></blockquote><blockquote><p><font size=5>参考：</font><font size=4><a href="https://zhuanlan.zhihu.com/p/103391101">枫叶知乎博客学习专栏第三篇：</a></font></p></blockquote><blockquote><p><font size=4>利用SSH来完成GitHub的绑定并提交文件。</font></p></blockquote><p><font size=4>SSH（安全外壳协议，Secure Shell 的缩写）是建立在应用层基础上的安全协议。SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议，利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。简单来说，SSH就是保障你的账户安全，将你的数据加密压缩，不仅防止其他人截获你的数据，还能加快传输速度。</font></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p><a href="/posts/7d37f72d.html">返回</a></p></blockquote><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p><font size=4>进行此步骤前请先确认是否已完成以下步骤：</font><br><a href="/begin/first.html">个人博客（一）——注册GitHub</a><br><a href="/posts/second.html">个人博客（二）——下载Git</a></p></blockquote><blockquote><p><font size=5>参考：</font><font size=4><a href="https://zhuanlan.zhihu.com/p/103391101">枫叶知乎博客学习专栏第三篇：</a></font></p></blockquote><blockquote><p><font size=4>利用SSH来完成GitHub的绑定并提交文件。</font></p></blockquote><p><font size=4>SSH（安全外壳协议，Secure Shell 的缩写）是建立在应用层基础上的安全协议。SSH 是目前较可靠，专为远程登录会话和其他网络服务提供安全性的协议，利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。简单来说，SSH就是保障你的账户安全，将你的数据加密压缩，不仅防止其他人截获你的数据，还能加快传输速度。</font></p><h1 id="绑定GitHub"><a href="#绑定GitHub" class="headerlink" title="绑定GitHub"></a>绑定GitHub</h1>]]></content>
       
       
       

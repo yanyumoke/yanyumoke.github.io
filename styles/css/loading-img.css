@@ -2,3 +2,7 @@
     background: url(/image/tx.png) no-repeat center center;
     background-size: cover;
   }
+
+  .tk-footer {
+    display: none;
+  }

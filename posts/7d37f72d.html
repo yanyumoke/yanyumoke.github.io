@@ -213,7 +213,7 @@ document.addEventListener('pjax:send', () => {
 
   const loadTwikoo = () => {
     if (typeof twikoo === 'object') setTimeout(init,0)
-    else getScript('https://cdn.jsdelivr.net/gh/zhheo/twikoo@dev/dist/twikoo.all.min.js').then(init)
+    else getScript('https://cdn.jsdelivr.net/npm/twikoo@1.6.31/dist/twikoo.all.min.js').then(init)
   }
 
   if ('Twikoo' === 'Twikoo' || !true) {
